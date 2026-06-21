@@ -1,0 +1,17 @@
+[
+    {
+        "Product_ID": "101",
+        "Category": "Laptop",
+        "Price": 2500
+    },
+    {
+        "Product_ID": "103",
+        "Category": "Keyboard",
+        "Price": 150
+    },
+    {
+        "Product_ID": "105",
+        "Category": "Monitor",
+        "Price": 450
+    }
+]
